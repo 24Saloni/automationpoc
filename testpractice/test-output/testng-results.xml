@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49687" started-at="2019-07-15T07:29:11Z" finished-at="2019-07-15T07:30:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49687" started-at="2019-07-15T07:29:11Z" finished-at="2019-07-15T07:30:01Z">
+      <class name="com.org.test.HomePageTest">
+        <test-method status="PASS" signature="mytestmethod()[pri:0, instance:com.org.test.HomePageTest@12f41634]" name="mytestmethod" duration-ms="47735" started-at="2019-07-15T07:29:11Z" finished-at="2019-07-15T07:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytestmethod -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:com.org.test.HomePageTest@12f41634]" name="closeSession" is-config="true" duration-ms="1920" started-at="2019-07-15T07:29:59Z" finished-at="2019-07-15T07:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- com.org.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
